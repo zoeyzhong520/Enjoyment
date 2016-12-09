@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  Enjoyment
+//
+//  Created by zzj on 16/12/9.
+//  Copyright © 2016年 zzj. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC
+
+#import <JSONModel/JSONModel.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+
+#endif
+
+#endif /* PrefixHeader_pch */

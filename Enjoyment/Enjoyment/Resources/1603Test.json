@@ -1,0 +1,555 @@
+{
+  "data" : {
+    "count" : 17,
+    "items" : [
+      {
+        "active_time" : "2016年1月20日-2016年6月13日",
+        "activity_tag" : [],
+        "additional_field" : [
+          {
+            "key" : "date",
+            "length" : 11,
+            "name" : "参与活动时间",
+            "type" : 1
+          },
+          {
+            "key" : "key0",
+            "length" : 10,
+            "name" : "【参与人】姓名",
+            "type" : 4
+          },
+          {
+            "key" : "key1",
+            "length" : 15,
+            "name" : "【参与人】电话",
+            "type" : 4
+          },
+          {
+            "key" : "key2",
+            "length" : 100,
+            "name" : "多人报名（分别填写姓名、电话）",
+            "type" : 4
+          }
+        ],
+        "address" : "北京市朝阳区望京阜通东大街8号国际竹藤大厦一层方桌艺术工作室",
+        "attention" : "<p>★下单之后，请务必按照短信的提示进行操作，点击短信中的链接填写补充信息，以便我们进行订单验证，谢谢配合~</p><p>★周六日请提前一天预约，预约电话：15101160829/4008861103。</p><p>★本课程一旦售出，恕不退款。有疑问欢迎咨询一种APP微信公众账号：Yizhong66</p><p><br/></p>",
+        "consumption_per_person" : "0",
+        "coordinate" : "116.486312,39.995015",
+        "desc" : "【Fun Job Art 零基础油画体验】在帝都这片浮躁喧哗的土地，可能我们都需要一个小地方让我们的身体和灵魂都能彻底的纯净和放松可以回归到童年，像一个孩子一样去读书、画画、分享和聆听不张扬的去帮助弱...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=521&version=8",
+        "distance" : 4473389,
+        "end_time" : 0,
+        "id" : 521,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/02/01/98fcf17139ba860f2a085f94990383c2.png",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "Fun Job Art零基础油画、国画体验",
+        "phone" : "0592-3156804  咨询微信：Yizhong66",
+        "read_count" : 1399,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=521&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "05/31-06/12",
+        "activity_tag" : [],
+        "additional_field" : [
+          {
+            "key" : "date",
+            "length" : 11,
+            "name" : "参与活动时间",
+            "type" : 1
+          }
+        ],
+        "address" : "蜂巢剧场",
+        "attention" : "",
+        "consumption_per_person" : "50-380",
+        "coordinate" : "116.445407,39.946168",
+        "desc" : "17年前，廖一梅写了一部充满悲情、扭曲与坚守的剧本——《恋爱的犀牛》。而在当时，除了鬼才话剧导演孟京辉外，没有任何人敢把它搬上舞台。甚至连第一场演出，也是在一个偏僻而寂落的小剧场。但是，一切现实和功利...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=788&version=8",
+        "distance" : 4468484,
+        "end_time" : 0,
+        "id" : 788,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/03/28/427c1d18c8f1c9d52df435d045affd08.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "孟京辉经典戏剧作品《恋爱的犀牛》",
+        "phone" : "暂无",
+        "read_count" : 245,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=788&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "07/08-07/10",
+        "activity_tag" : [],
+        "additional_field" : [
+          {
+            "key" : "date",
+            "length" : 11,
+            "name" : "参与活动时间",
+            "type" : 1
+          }
+        ],
+        "address" : "五棵松体育馆",
+        "attention" : "",
+        "consumption_per_person" : "580-2280",
+        "coordinate" : "116.285307,39.916590",
+        "desc" : "众所周知，“天王巨星”周杰伦“魔天轮”系列演唱会于2013年从上海、北京、广州起跑之后便是场场爆满，票房更是轮番遭遇“疯抢”，屡屡刷新华语演唱会票房秒杀记录。2016年7月全新巡回演唱会将再次从上海、...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=786&version=8",
+        "distance" : 4467120,
+        "end_time" : 0,
+        "id" : 786,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/03/28/b9e2a485742ffbd1435fcdf17a94709b.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "2016周杰伦世界巡回演唱会",
+        "phone" : "暂无",
+        "read_count" : 293,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=786&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "07/30",
+        "activity_tag" : [],
+        "additional_field" : [
+          {
+            "key" : "date",
+            "length" : 11,
+            "name" : "参与活动时间",
+            "type" : 1
+          }
+        ],
+        "address" : "五棵松体育馆",
+        "attention" : "",
+        "consumption_per_person" : "280-1280",
+        "coordinate" : "116.285307,39.916590",
+        "desc" : "2010年8月，S.H.E.成员之一Hebe，以田馥甄的本名，以“超级新人”的姿态发行第一张个人专辑，勇闯歌坛。而后她又接连发行三张专辑《ToHebe》、《MyLove》、《渺小》，创下许多音乐记录，...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=753&version=8",
+        "distance" : 4467120,
+        "end_time" : 0,
+        "id" : 753,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/03/21/2d0626f20363c1801d323c476ea533cc.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "2016 如果 田馥甄巡回演唱会PLUS 北京站",
+        "phone" : "暂无",
+        "read_count" : 192,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=753&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "05/20-05/21",
+        "activity_tag" : [],
+        "additional_field" : [
+          {
+            "key" : "date",
+            "length" : 11,
+            "name" : "参与活动时间",
+            "type" : 1
+          }
+        ],
+        "address" : "世纪剧院",
+        "attention" : "",
+        "consumption_per_person" : "80-380",
+        "coordinate" : "116.479058,39.956930",
+        "desc" : "英国动漫舞台剧《小羊肖恩》项目介绍英国著名动画形象小羊肖恩经过近3年的媒体传播，已经在中国形成了一定的粉丝群体，在2015中英文化交流年里，小羊肖恩的系列推广活动更是引起了都市大众的关注与媒体的热捧。...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=752&version=8",
+        "distance" : 4469280,
+        "end_time" : 0,
+        "id" : 752,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/03/21/d6358a7d76ccf04e64fd7fa7e402e2e6.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "英国动漫舞台剧《小羊肖恩》",
+        "phone" : "暂无",
+        "read_count" : 63,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=752&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "04/28-05/22",
+        "activity_tag" : [],
+        "additional_field" : [
+          {
+            "key" : "date",
+            "length" : 11,
+            "name" : "参与活动时间",
+            "type" : 1
+          }
+        ],
+        "address" : "朝阳公园东三门停车场",
+        "attention" : "",
+        "consumption_per_person" : "120-1180",
+        "coordinate" : "116.495549,39.944647",
+        "desc" : "《CAVALIA·舞马》由圆核CAVALIA剧团演出，圆核CAVALIA剧团是由加拿大CAVALIA剧团原班团员组成。CAVALIA是法语、西班牙语与英语单词中马和骑兵的变体。这个充满浪漫色彩的剧名带...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=719&version=8",
+        "distance" : 4467737,
+        "end_time" : 0,
+        "id" : 719,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/03/14/334dda17457a7c30c39943cff95493d1.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "CAVALIA·舞马",
+        "phone" : "暂无",
+        "read_count" : 75,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=719&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "05/01-08/31",
+        "activity_tag" : [],
+        "additional_field" : [
+          {
+            "key" : "date",
+            "length" : 11,
+            "name" : "参与活动时间",
+            "type" : 1
+          }
+        ],
+        "address" : "中华世纪坛世界艺术馆",
+        "attention" : "",
+        "consumption_per_person" : "70-100",
+        "coordinate" : "116.328288,39.917045",
+        "desc" : "看完莫奈400多幅真迹，需要走遍世界各地上百家博物馆在这里，你可以站在莫奈的《睡莲》前感受莫奈笔下变幻莫测的倒影世界，在《持阳伞的卡米尔》面前等待吹动着卡米尔脸上的微风拂过脸庞，触摸交错在《鲁昂大教堂...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=622&version=8",
+        "distance" : 4466657,
+        "end_time" : 0,
+        "id" : 622,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/02/22/220f4d06f0a2c776dffc5dfece737ee3.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "印象莫奈：时光映迹艺术展",
+        "phone" : "暂无",
+        "read_count" : 306,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=622&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "05/20-05/22",
+        "activity_tag" : [],
+        "additional_field" : [
+          {
+            "key" : "date",
+            "length" : 11,
+            "name" : "参与活动时间",
+            "type" : 1
+          }
+        ],
+        "address" : "保利剧院",
+        "attention" : "",
+        "consumption_per_person" : "180-880",
+        "coordinate" : "116.441824,39.940168",
+        "desc" : "享誉全球的百老汇殿堂级音乐剧《我，堂吉诃德》取材自西班牙文豪塞万提斯的传世巨著《堂吉诃德》，采用&quot;穿越&quot;&quot;戏中戏&quot;的亦真亦幻的形式，对原作中的剧情做了延伸和展开...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=621&version=8",
+        "distance" : 4467866,
+        "end_time" : 0,
+        "id" : 621,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/02/22/e46efa86c88fae2b63516f56636efb4b.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "百老汇音乐剧《我，堂吉诃德》中文版首演",
+        "phone" : "暂无",
+        "read_count" : 86,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=621&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "06/25",
+        "activity_tag" : [],
+        "additional_field" : [
+          {
+            "key" : "date",
+            "length" : 11,
+            "name" : "参与活动时间",
+            "type" : 1
+          }
+        ],
+        "address" : "北京五棵松体育馆",
+        "attention" : "",
+        "consumption_per_person" : "180-980",
+        "coordinate" : "116.285307,39.916590",
+        "desc" : "退伍后音乐火力全开 &nbsp;︴『THE GREAT YOGA』世界巡回演唱会2016年内地场北京首站启航备受全亚洲媒体与乐迷殷切关注的林宥嘉，退伍后随着电影杜拉拉追婚记主题曲[如果我变成一首歌]、...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=593&version=8",
+        "distance" : 4467120,
+        "end_time" : 0,
+        "id" : 593,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/02/15/59614b0d7fad256a81261ee140ec52f4.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "林宥嘉 THE GREAT YOGA 世界巡回演唱会",
+        "phone" : "暂无",
+        "read_count" : 179,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=593&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "10/22",
+        "activity_tag" : [],
+        "additional_field" : [
+          {
+            "key" : "date",
+            "length" : 11,
+            "name" : "参与活动时间",
+            "type" : 1
+          }
+        ],
+        "address" : "国家体育场",
+        "attention" : "",
+        "consumption_per_person" : "380-1980",
+        "coordinate" : "116.403150,39.999011",
+        "desc" : "陈奕迅，2013-2016百场巡演最终章，北京鸟巢站Eason将为你重新定义一场真正的&quot;演唱会&quot;!一场演唱会可以火到什么程度？★法国开唱，销售纪录直追迈克尔·杰克逊！★首位华人于伦...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=592&version=8",
+        "distance" : 4474794,
+        "end_time" : 0,
+        "id" : 592,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/02/15/04f1934523445d8b51dd5526b7722bac.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "陈奕迅 ANOTHER EASON’S LIFE 演唱会",
+        "phone" : "暂无",
+        "read_count" : 251,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=592&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "每天",
+        "activity_tag" : [],
+        "additional_field" : [],
+        "address" : "北京海淀区学清路甲8号圣熙8号购物中心4楼",
+        "attention" : "",
+        "consumption_per_person" : "50-100",
+        "coordinate" : "116.361814,40.014430",
+        "desc" : "一座城市，一个不可复制的艺术馆。「趣过」是由国内外多领域知名艺术家融合日韩、欧美等国家的前卫艺术，倾力打造的错觉装置艺术连锁品牌。&nbsp;趣过·北京错觉装置艺术馆占地面积1500平米，展出包括数十...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=496&version=8",
+        "distance" : 4476976,
+        "end_time" : 0,
+        "id" : 496,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/01/18/4a47e5053e14eeb05a7ff7b32d5f8932.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "趣过·北京错觉装置艺术馆",
+        "phone" : "暂无",
+        "read_count" : 415,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=496&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "02/19-05/13",
+        "activity_tag" : [],
+        "additional_field" : [],
+        "address" : "北京东城区东长安街16号中国国家博物馆",
+        "attention" : "",
+        "consumption_per_person" : "0",
+        "coordinate" : "116.408095,39.911495",
+        "desc" : "“罗马尼亚珍宝”展以罗马尼亚历史沿革为顺序，向中国观众全面展示罗马尼亚从史前时期到18世纪末，丰富多彩、瑰丽夺目的重要文化遗产。本次展览共遴选445件（套）展品，包括石器、陶瓷器、金银器、铜器、玻璃器...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=469&version=8",
+        "distance" : 4465103,
+        "end_time" : 0,
+        "id" : 469,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2016/01/11/adbe1598f02b5ee83e3c6ce351f92ada.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "罗马尼亚珍宝",
+        "phone" : "暂无",
+        "read_count" : 242,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=469&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "每天",
+        "activity_tag" : [],
+        "additional_field" : [],
+        "address" : "北京市东城区崇文门外大街18号国瑞购物中心LG层D01",
+        "attention" : "",
+        "consumption_per_person" : "58",
+        "coordinate" : "116.426394,39.904415",
+        "desc" : "风靡全球的梵高星空乐园全国巡展首站来北京啦！这个艺术装置在荷兰展出时引来了6万5千多名观众，为了感受30秒的异度空间领域，人均排队3个小时，数百万光年外的灵魂，还原一间房间整个宇宙！&nbsp;展出的...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=403&version=8",
+        "distance" : 4464110,
+        "end_time" : 0,
+        "id" : 403,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2015/12/28/d0d43e77ae9a7486bb24a67a16b84a75.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "北京首个梵高星空乐园",
+        "phone" : "暂无",
+        "read_count" : 1081,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=403&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "每天",
+        "activity_tag" : [],
+        "additional_field" : [],
+        "address" : "东城区东长安街16号(天安门广场东侧)",
+        "attention" : "",
+        "consumption_per_person" : "22",
+        "coordinate" : "0.000000,0.000000",
+        "desc" : "中国国家博物馆位于天安门广场东侧，与人民大会堂相对称，是中国最大的综合性博物馆。在省市级的博物馆往往只能看到当地出土的历代文物，而国家博物馆集合了全国各个文化区域的精髓。在这里，你不仅能看到陕西的兵马...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=220&version=8",
+        "distance" : 13501503,
+        "end_time" : 0,
+        "id" : 220,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2015/10/26/2ed9314667e1253d1835b4576781cad6.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "中国国家博物馆",
+        "phone" : "010-65119031,010-65116400",
+        "read_count" : 301,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=220&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "每天",
+        "activity_tag" : [],
+        "additional_field" : [],
+        "address" : "顺义区马坡镇白各庄",
+        "attention" : "",
+        "consumption_per_person" : "100",
+        "coordinate" : "116.638296,40.171133",
+        "desc" : "这是以意大利托斯卡纳建筑风格为基调的观光农场。作为北京绝无仅有的意大利田园风情，所有房间均为复合式结构并配有壁炉，完全体现意大利的异域风情。带上家人和最心爱的宠物，在这里尽情享乐吧！『田园风情客房：还...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=82&version=8",
+        "distance" : 4491069,
+        "end_time" : 0,
+        "id" : 82,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2015/09/02/0855574b099221b1910f27662305fde4.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "顺义意大利农场",
+        "phone" : "010-69407780",
+        "read_count" : 498,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=82&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "预约时间",
+        "activity_tag" : [],
+        "additional_field" : [],
+        "address" : "净土胡同20号 睦野画舍二楼色彩教室",
+        "attention" : "",
+        "consumption_per_person" : "180",
+        "coordinate" : "116.407318,39.951680",
+        "desc" : "【活动详情】禅绕（Zentangle）一词在英文中“Entangle”是“缠住”的意思，“Zen”是日文中“禅宗”的意思。“禅绕画”被称为“来自美国的心灵画作”。是一种心灵治愈的绘画活动，在作画的同时...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=79&version=8",
+        "distance" : 4469536,
+        "end_time" : 0,
+        "id" : 79,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2015/09/02/2b34a730e91ec32451bc5909871ca23e.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "静心禅绕画课程",
+        "phone" : "010-84083772 ",
+        "read_count" : 21500,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=79&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      },
+      {
+        "active_time" : "每天",
+        "activity_tag" : [],
+        "additional_field" : [],
+        "address" : "北京市密云县古北口镇汤河村",
+        "attention" : "",
+        "consumption_per_person" : "40",
+        "coordinate" : "117.213129,40.651027",
+        "desc" : "直奔香草园，满眼的小紫花令人陶醉万分，感觉就像穿越到了法国的普罗旺斯。在这浓郁芳香的紫海中悠闲漫步，衣角裙边还会留下淡淡的花香。『餐饮』中餐厅：以“鱼羊”为主题，提供当地的绿色蔬菜、香草鸡、密云水库鱼...",
+        "detail_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=activityDetail&activity_id=81&version=8",
+        "distance" : 4538039,
+        "end_time" : 0,
+        "id" : 81,
+        "image" : {
+          "height" : 260,
+          "url" : "http://img.yizhong.cccwei.com/yizhong/yizhongapp/2015/09/02/e12691b4ca0de059007b706dbb93975d.jpg",
+          "width" : 604
+        },
+        "kinds" : [],
+        "name" : "密云紫海香堤",
+        "phone" : "010-58677811",
+        "read_count" : 3479,
+        "share_url" : "http://api.yizhong.cccwei.com/index.php?m=Share&a=shareActivityDetail&activity_id=81&version=8",
+        "start_time" : 0,
+        "status" : 0,
+        "type" : 0
+      }
+    ]
+  },
+  "rs_code" : "1000"
+}
